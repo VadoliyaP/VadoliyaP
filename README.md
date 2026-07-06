@@ -1,5 +1,6 @@
 # 💫 About Me:
-I exist at the intersection of wet-lab discovery and algorithmic precision.<br>Translating complex data intp actionable insights.<br>Bridging gap between high-throughput biological experiments and scalable computational pipelins.<br>Passionate about deciphering complex cellular networks to accelerate precision medicine and theraputic development.<br>
+I exist at the intersection of wet-lab discovery and algorithmic precision.<br>Translating complex data intp actionable insights.<br>Bridging gap between high-throughput biological experiments and scalable computational pipelins.<br>Passionate about deciphering complex cellular networks to accelerate precision medicine and theraputic development.<br> <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
+<br><br>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Priyanshi Vadoliya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:priyanshivadoliya786@gmail.com) 
 # 💻 Tech Stack:
@@ -13,12 +14,3 @@ I exist at the intersection of wet-lab discovery and algorithmic precision.<br>T
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 [![](https://komarev.com/ghpvc/?username=VadoliyaP&icon=2&color=1)](https://visitcount.itsvg.in)
-
-<!-- Replace 'YOUR_USERNAME' with your actual GitHub username -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VadoliyaP/VadoliyaP/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VadoliyaP/VadoliaP/output/github-contribution-grid-snake.svg">
-  <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/VadoliyaP/VadoliyaP/output/github-contribution-grid-snake.svg">
-</picture>
-<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
-<br><br>
