@@ -1,5 +1,5 @@
 # 💫 About Me:
-I exist at the intersection of wet-lab discovery and algorithmic precision.<br>Translating complex data intp actionable insights.<br>Bridging gap between high-throughput biological experiments and scalable computational pipelins.<br>Passionate about deciphering complex cellular networks to accelerate precision medicine and theraputic development.<br> <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
+I exist at the intersection of wet-lab discovery and algorithmic precision.<br>Translating complex data intp actionable insights.<br>Bridging gap between high-throughput biological experiments and scalable computational pipelins.<br>Passionate about deciphering complex cellular networks to accelerate precision medicine and theraputic development.<br> 
 <br><br>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Priyanshi Vadoliya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:priyanshivadoliya786@gmail.com) 
@@ -14,3 +14,4 @@ I exist at the intersection of wet-lab discovery and algorithmic precision.<br>T
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 [![](https://komarev.com/ghpvc/?username=VadoliyaP&icon=2&color=1)](https://visitcount.itsvg.in)
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
