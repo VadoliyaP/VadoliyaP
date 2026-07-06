@@ -14,5 +14,4 @@ I exist at the intersection of wet-lab discovery and algorithmic precision.<br>T
 ![](https://github-profile-trophy.vercel.app/?username=VadoliyaP&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-[![](https://komarev.com/ghpvc/?username=VadoliyaP&icon=2&color=1)](https://visitcount.itsvg.in)
 <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
