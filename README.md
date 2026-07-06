@@ -20,3 +20,5 @@ I exist at the intersection of wet-lab discovery and algorithmic precision.<br>T
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VadoliyaP/VadoliaP/output/github-contribution-grid-snake.svg">
   <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/VadoliyaP/VadoliyaP/output/github-contribution-grid-snake.svg">
 </picture>
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
+<br><br>
