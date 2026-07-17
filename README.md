@@ -1,4 +1,4 @@
-# 💫 About Me
+# 💫 About Me:
 I exist at the intersection of wet-lab discovery and algorithmic precision.<br>Translating complex data intp actionable insights.<br>Bridging gap between high-throughput biological experiments and scalable computational pipelins.<br>Passionate about deciphering complex cellular networks to accelerate precision medicine and theraputic development.<br> 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/PriyanshiVadoliya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:priyanshivadoliya786@gmail.com) 
